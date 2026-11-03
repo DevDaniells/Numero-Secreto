@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/gabrielle-ribeiro) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br><sub>Rodrigo Caneppele</sub>](https://github.com/rcaneppele) || [<img src="https://avatars.githubusercontent.com/u/198410888?s=400&u=153352e0ebc0a786017aa5cb663d508eeaa1e020&v=4" width="115" alt="Avatar do GitHub"><br><sub>Daniel</sub>](https://github.com/DevDaniells) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/gabrielle-ribeiro) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br><sub>Rodrigo Caneppele</sub>](https://github.com/rcaneppele) | [<img src="https://avatars.githubusercontent.com/u/198410888?s=400&u=153352e0ebc0a786017aa5cb663d508eeaa1e020&v=4" width="115" alt="Avatar do GitHub"><br><sub>Daniel</sub>](https://github.com/DevDaniells) |
 | :---: | :---: | :---: |
