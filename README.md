@@ -13,5 +13,4 @@
 # Time
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/gabrielle-ribeiro) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br><sub>Rodrigo Caneppele</sub>](https://github.com/rcaneppele) | [<img src="https://github.com/DevDaniells.png" width="115" alt="Avatar de Daniel"><br><sub>Daniel</sub>](https://github.com/DevDaniells) |
-
 | :---: | :---: | :---: |
